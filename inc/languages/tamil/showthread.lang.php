@@ -16,33 +16,33 @@
 // Language pack translators website : https://surangam.net/
 // Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Surangam
-// Last edited date : Wed, 09 Aug 2017 11:41:59 +0000
+// Last edited date : Wed, 09 Aug 2017 12:50:03 +0000
 // --------------------------------------------------------------------------------
 
 $l['delete_poll'] = 'வாக்கெடுப்பை நீக்கு';
 $l['close_thread'] = 'இழையை மூடு';
 $l['stick_thread'] = 'இழையை ஒட்டு';
-$l['author'] = '';
-$l['message'] = '';
-$l['threaded'] = '';
-$l['linear'] = '';
-$l['thread_modes'] = '';
+$l['author'] = 'ஆக்கியோன்';
+$l['message'] = 'விடுகை';
+$l['threaded'] = 'திரிக்கப்பட்ட முறைமை';
+$l['linear'] = 'எகபரிமாண முறைமை';
+$l['thread_modes'] = 'இழை முறைமைகள்';
 $l['next_oldest'] = '';
 $l['next_newest'] = '';
 $l['view_printable'] = '';
 $l['send_thread'] = '';
 $l['subscribe_thread'] = '';
 $l['unsubscribe_thread'] = '';
-$l['add_poll_to_thread'] = '';
-$l['moderation_options'] = '';
+$l['add_poll_to_thread'] = 'இந்த இழையுடன் வாக்கெடுப்பை சேர்த்திடு';
+$l['moderation_options'] = 'நெறியாளர் தெரிவுகள்:';
 $l['delayed_moderation'] = '';
 $l['thread_notes'] = '';
-$l['open_close_thread'] = '';
-$l['approve_thread'] = '';
-$l['unapprove_thread'] = '';
+$l['open_close_thread'] = 'இழையை திறந்திடு/மூடிடு';
+$l['approve_thread'] = 'இழையை அங்கீகரித்திடு';
+$l['unapprove_thread'] = 'இழையின் அங்கீகாரம்நீக்கு';
 $l['soft_delete_thread'] = '';
 $l['restore_thread'] = '';
-$l['delete_thread'] = '';
+$l['delete_thread'] = 'இழையை நிரந்திரமாக நீக்கிடு';
 $l['delete_posts'] = '';
 $l['move_thread'] = '';
 $l['stick_unstick_thread'] = '';
