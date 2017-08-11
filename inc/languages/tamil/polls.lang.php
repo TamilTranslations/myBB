@@ -16,7 +16,7 @@
 // Language pack translators website : https://surangam.net/
 // Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Surangam
-// Last edited date : Thu, 10 Aug 2017 08:46:12 +0000
+// Last edited date : Fri, 11 Aug 2017 00:07:14 +0000
 // --------------------------------------------------------------------------------
 
 $l['nav_postpoll'] = 'வாக்கெடுப்பை பதிவிடு';
@@ -49,22 +49,22 @@ $l['days'] = 'நாட்கள்';
 $l['poll_results'] = 'வாக்கெடுப்பு முடிவுகள்';
 $l['poll_total'] = 'மொத்தம்:';
 $l['poll_votes'] = 'வாக்கு(கள்)';
-$l['redirect_pollposted'] = '';
-$l['redirect_pollpostedmoderated'] = '';
-$l['redirect_pollupdated'] = '';
-$l['redirect_votethanks'] = '';
-$l['redirect_unvoted'] = '';
+$l['redirect_pollposted'] = 'உங்களது வாக்கெடுப்பு பதிக்கப்பட்டது.<br /> நீங்கள் இழைக்கு திரும்ப அனுப்பப்படுவீர்கள்.';
+$l['redirect_pollpostedmoderated'] = 'உங்களது வாக்கெடுப்பு பதிக்கப்பட்டது அனால் உங்களது இழை மட்டுறுத்தலுக்கு காத்திருக்கிறது.<br /> நீங்கள் மன்றத்திற்கு திரும்ப அனுப்பப்படுவீர்கள்.';
+$l['redirect_pollupdated'] = 'இந்த வாக்கெடுப்பு மேம்படுத்தப்பட்டது.<br /> நீங்கள் இழைக்கு திரும்ப அனுப்பப்படுவீர்கள்.';
+$l['redirect_votethanks'] = 'வாக்களித்தமைக்கு நன்றி.<br />நீங்கள் இழைக்கு திரும்ப அனுப்பப்படுவீர்கள்.';
+$l['redirect_unvoted'] = 'வாக்கெடுப்பில் உங்களது வாக்கு  நீக்கப்பட்டது.<br /> நீங்கள் இழைக்கு திரும்ப அனுப்பப்படுவீர்கள்.';
 $l['redirect_polldeleted'] = '';
 $l['error_polloptiontoolong'] = '';
 $l['error_polloptionsequence'] = '';
 $l['error_noquestionoptions'] = '';
 $l['error_pollalready'] = 'இழையில் ஏற்கெனவே வாக்கெடுப்பு உள்ளது';
-$l['error_nopolloptions'] = '';
-$l['error_maxpolloptions'] = '';
-$l['error_alreadyvoted'] = '';
-$l['error_notvoted'] = '';
-$l['error_invalidpoll'] = '';
-$l['error_pollclosed'] = '';
+$l['error_nopolloptions'] = 'குறிப்பிட்ட வாக்கெடுப்பு விருப்பம் இருக்கவில்லை அல்லது செல்லுபடியாகாதது.';
+$l['error_maxpolloptions'] = 'நீங்கள் அதிகப்படியான விருப்பங்களுக்கு வாக்களித்துளீர்கள். நீங்கள் {1} விருப்பங்களுக்கு மட்டுமே வாக்களிக்க அனுமதிக்கப்பட்டுள்ளீர்கள்.<br /> தயவுசெய்து திரும்ப சென்று மீண்டும் முயற்சிக்கவும்.';
+$l['error_alreadyvoted'] = 'இந்த வாக்கெடுப்பில் ஏற்கெனெவே வாக்களித்து விட்டீர்கள்.';
+$l['error_notvoted'] = 'நீங்கள் இந்த வாக்கெடுப்பில் வாக்களிக்கவில்லை.';
+$l['error_invalidpoll'] = 'குறிப்பிட்ட வாக்கெடுப்பு இருக்கவில்லை அல்லது செல்லுபடியாகாதது.';
+$l['error_pollclosed'] = 'நீங்கள் மூடப்பட்ட வாக்கெடுப்பில் வாக்களிக்க இயலாது.';
 $l['poll_time_limit'] = '';
-$l['poll_deleted'] = '';
-$l['poll_edited'] = '';
+$l['poll_deleted'] = 'வாக்கெடுப்பு நீக்கப்பட்டது';
+$l['poll_edited'] = 'வாக்கெடுப்பு திருத்தப்பட்டது';
