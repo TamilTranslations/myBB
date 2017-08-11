@@ -16,7 +16,7 @@
 // Language pack translators website : https://surangam.net/
 // Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Surangam
-// Last edited date : Wed, 09 Aug 2017 09:25:36 +0000
+// Last edited date : Fri, 11 Aug 2017 00:46:52 +0000
 // --------------------------------------------------------------------------------
 
 $l['nav_register'] = 'பெயர்ப்பதிவு';
@@ -44,26 +44,26 @@ $l['pw_note'] = '';
 $l['lostpw_note'] = '';
 $l['lost_pw'] = '';
 $l['lost_pw_form'] = '';
-$l['email_address'] = '';
+$l['email_address'] = 'மின்னஞ்சல் முகவரி:';
 $l['request_user_pass'] = '';
 $l['profile'] = '';
 $l['registration_date'] = '';
-$l['date_of_birth'] = '';
-$l['birthdayhidden'] = '';
-$l['birthday'] = '';
+$l['date_of_birth'] = 'பிறந்த நாள்:';
+$l['birthdayhidden'] = 'மறைக்கப்பட்டுள்ளது';
+$l['birthday'] = 'பிறந்த நாள்:';
 $l['local_time'] = '';
 $l['local_time_format'] = '';
 $l['users_forum_info'] = '';
-$l['joined'] = '';
-$l['lastvisit'] = '';
-$l['total_posts'] = '';
+$l['joined'] = 'இணைந்தது:';
+$l['lastvisit'] = 'கடைசி வருகை:';
+$l['total_posts'] = 'மொத்த இடுகைகள்:';
 $l['ppd_percent_total'] = '';
-$l['total_threads'] = '';
+$l['total_threads'] = 'மொத்த இழைகள்:';
 $l['tpd_percent_total'] = '';
-$l['find_posts'] = '';
-$l['find_threads'] = '';
-$l['members_referred'] = '';
-$l['rating'] = '';
+$l['find_posts'] = 'அனைத்து இடுகைகளையும் தேடு';
+$l['find_threads'] = 'அனைத்து இழைகளையும் தேடு';
+$l['members_referred'] = 'பரிந்துரைத்த உறுப்பினர்கள்: ';
+$l['rating'] = 'மதிப்பீடு:';
 $l['users_contact_details'] = '';
 $l['homepage'] = '';
 $l['pm'] = '';
