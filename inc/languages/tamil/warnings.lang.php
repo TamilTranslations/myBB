@@ -16,7 +16,7 @@
 // Language pack translators website : https://surangam.net/
 // Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Surangam
-// Last edited date : Wed, 23 Aug 2017 09:53:19 +0000
+// Last edited date : Wed, 23 Aug 2017 09:59:33 +0000
 // --------------------------------------------------------------------------------
 
 $l['nav_profile'] = 'பயனர் {1} சுயவிவரம்';
@@ -48,38 +48,42 @@ $l['points'] = 'புள்ளிகள்:';
 $l['details_reason'] = 'காரணம்';
 $l['warn_user_desc'] = 'ஒன்றுக்கு மேற்பட்ட விதிகளை மீறி இருந்தால் இங்கு இந்த பயனரின் எச்சரிக்கை அளவை அதிகரிக்கலாம்.';
 $l['send_pm'] = 'பயனருக்கு தெரிவித்துவிடு:';
-$l['send_user_warning_pm'] = '';
-$l['send_pm_subject'] = '';
-$l['warning_pm_subject'] = '';
-$l['send_pm_message'] = '';
-$l['warning_pm_message'] = '';
-$l['send_pm_options'] = '';
-$l['send_pm_options_anonymous'] = '';
-$l['expiration_never'] = '';
-$l['expiration_hours'] = '';
-$l['expiration_days'] = '';
-$l['expiration_weeks'] = '';
-$l['expiration_months'] = '';
-$l['redirect_warned_banned'] = '';
-$l['redirect_warned_suspended'] = '';
-$l['redirect_warned_moderate'] = '';
-$l['redirect_warned_pmerror'] = '';
-$l['redirect_warned'] = '';
-$l['error_warning_system_disabled'] = '';
-$l['error_cant_warn_group'] = '';
-$l['error_invalid_user'] = '';
-$l['details'] = '';
-$l['view'] = '';
-$l['current_warning_level'] = '';
-$l['warning_details'] = '';
-$l['revoke_warning'] = '';
-$l['revoke_warning_desc'] = '';
-$l['warning_is_revoked'] = '';
-$l['revoked_by'] = '';
-$l['date_revoked'] = '';
-$l['warning_already_revoked'] = '';
-$l['no_revoke_reason'] = '';
-$l['redirect_warning_revoked'] = '';
+$l['send_user_warning_pm'] = 'இந்த பயனருக்கு தனிப்பட்ட விடுகை அனுப்பி இந்த எச்சரிக்கையை தெரியப்படுத்து';
+$l['send_pm_subject'] = 'பொருள்:';
+$l['warning_pm_subject'] = 'நீங்கள் ஒரு எச்சரிக்கையை பெற்றுள்ளீர்கள்';
+$l['send_pm_message'] = 'விடுகை:';
+$l['warning_pm_message'] = 'அன்புள்ள {1}
+நீங்கள் {2}-இன் அலுவலரிடம் இருந்து எச்சரிக்கையை பெற்றுள்ளீர்கள்.
+--
+
+--';
+$l['send_pm_options'] = 'தேர்வுகள்:';
+$l['send_pm_options_anonymous'] = '<strong>அநாமதேய த.வி</strong>: இந்த தனிப்பட்ட விடுகையை அநாமதேய பயனராக அனுப்பு';
+$l['expiration_never'] = 'நிரந்தரமாக';
+$l['expiration_hours'] = 'மணித்துளிகள்';
+$l['expiration_days'] = 'நாட்கள்';
+$l['expiration_weeks'] = 'வாரங்கள்';
+$l['expiration_months'] = 'மாதங்கள்';
+$l['redirect_warned_banned'] = 'இந்த பயனர் {1} குழுவுக்கு மாற்றப்பட்டுள்ளார் {2}.';
+$l['redirect_warned_suspended'] = 'இந்த பயனரின் பதிக்கும் சலுகைகள் தற்காலிகமாக நிறுத்தப்பட்டுள்ளது {1}.';
+$l['redirect_warned_moderate'] = 'இந்த பயனரின் இடுகைகள் இப்போது மட்டுறுத்தப்படும் {1}.';
+$l['redirect_warned_pmerror'] = '<br /><br />தனிப்பட்ட விடுகை அனுப்பவில்லை என்பதை கவனத்தில் கொள்ளவும்.';
+$l['redirect_warned'] = '{1}-இன் எச்சரிக்கை அளவு {2}%-க்கு அதிகரிக்கப்பட்டுள்ளது.{3}<br /><br />நீங்கள் இருந்த இடத்திற்கே திருப்பி அனுப்பபடுவீர்.';
+$l['error_warning_system_disabled'] = 'நீங்கள் எச்சரிக்கை அமைப்பை பயன்படுத்த இயலாது ஏனெனில் இது மன்ற நிர்வாகியால் முடக்கப்படுள்ளது';
+$l['error_cant_warn_group'] = 'உங்கள் இந்த குழுவின் பயனர்களை எச்சரிக்க அனுமதியில்லை.';
+$l['error_invalid_user'] = 'தேர்வுசெய்த பயனர் இருக்கவில்லை.';
+$l['details'] = 'விபரங்கள்';
+$l['view'] = 'கண்டிடு';
+$l['current_warning_level'] = 'தற்போதைய எச்சரிக்கை அளவு: <strong>{1}%</strong> ({2}/{3})';
+$l['warning_details'] = 'எச்சரிக்கை  விபரங்கள்';
+$l['revoke_warning'] = 'எச்சரிக்கையை ரத்துச்செய்';
+$l['revoke_warning_desc'] = 'இந்த எச்சரிக்கையை ரத்து செய்ய ஒரு காரணத்தை கொடுக்கவும் . இது இந்த எச்சரிக்கையினால் கொடுக்கப்பட்ட தடை மற்றும் இடைநீக்கதை நீக்காது';
+$l['warning_is_revoked'] = 'இந்த எச்சரிக்கை ரத்து செய்யப்பட்டுள்ளது';
+$l['revoked_by'] = 'ரத்து செய்தவர்:';
+$l['date_revoked'] = 'ரத்து செய்த நாள்:';
+$l['warning_already_revoked'] = 'இந்த எச்சரிக்கை ஏற்கனவே ரத்து செய்யப்பட்டது.';
+$l['no_revoke_reason'] = 'நீங்கள் எச்சரிக்கையை ரத்து செய்வதற்கான காரணத்தை குறிப்பிடவில்லை.';
+$l['redirect_warning_revoked'] = 'இந்த எச்சரிக்கை வெற்றிகரமாக ரத்து செய்யப்பட்டு பயனரின் எச்சரிக்கை அளவு குறைக்கப்பட்டுள்ளது.<br /><br />நீங்கள் இப்போது எச்சரிக்கைக்கு திருப்பி அனுப்பிவைக்கபடுவீர்.';
 $l['result'] = 'முடிவு:';
 $l['result_banned'] = 'பயனர் தடை செய்யப்பட்ட குழுவிற்கு நகர்ததபட்டுள்ளார்  ({1}) {2}';
 $l['result_suspended'] = 'பதிக்கும் சலுகைகள் தற்காலிகமாக நிறுத்தப்பட்டுள்ளது {1}';
