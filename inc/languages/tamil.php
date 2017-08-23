@@ -18,7 +18,7 @@ $langinfo['admin'] = 0;
 $langinfo['rtl'] = 0;
 
 // Sets the lang in the <html> on all pages
-$langinfo['htmllang'] = "ta-in";
+$langinfo['htmllang'] = "ta";
 
 // Sets the character set, blank uses the default.
 $langinfo['charset'] = "UTF-8";
