@@ -16,7 +16,7 @@
 // Language pack translators website : https://surangam.net/
 // Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Surangam
-// Last edited date : Wed, 23 Aug 2017 09:49:20 +0000
+// Last edited date : Wed, 23 Aug 2017 09:53:19 +0000
 // --------------------------------------------------------------------------------
 
 $l['nav_profile'] = 'பயனர் {1} சுயவிவரம்';
@@ -80,17 +80,17 @@ $l['date_revoked'] = '';
 $l['warning_already_revoked'] = '';
 $l['no_revoke_reason'] = '';
 $l['redirect_warning_revoked'] = '';
-$l['result'] = '';
-$l['result_banned'] = '';
-$l['result_suspended'] = '';
-$l['result_moderated'] = '';
-$l['result_period'] = '';
-$l['result_period_perm'] = '';
-$l['hour_or_hours'] = '';
-$l['day_or_days'] = '';
-$l['week_or_weeks'] = '';
-$l['month_or_months'] = '';
-$l['expires'] = '';
-$l['new_warning_level'] = '';
-$l['error_cant_warn_user'] = '';
-$l['existing_post_warnings'] = '';
+$l['result'] = 'முடிவு:';
+$l['result_banned'] = 'பயனர் தடை செய்யப்பட்ட குழுவிற்கு நகர்ததபட்டுள்ளார்  ({1}) {2}';
+$l['result_suspended'] = 'பதிக்கும் சலுகைகள் தற்காலிகமாக நிறுத்தப்பட்டுள்ளது {1}';
+$l['result_moderated'] = 'இடுகைகள் மட்டுறுத்தப்படும் {1}.';
+$l['result_period'] = 'காலம் : {1} {2}';
+$l['result_period_perm'] = 'நிரந்தரமாக';
+$l['hour_or_hours'] = 'மணி நேரங்(கள்)';
+$l['day_or_days'] = 'நாட்(கள்)';
+$l['week_or_weeks'] = 'வாரங்(கள்)';
+$l['month_or_months'] = 'மாதங்(கள்)';
+$l['expires'] = 'காலாவதியவது:';
+$l['new_warning_level'] = 'புதிய எச்சரிக்கை அளவு:';
+$l['error_cant_warn_user'] = 'நீங்கள் இந்த பயனரை எச்சரிக்க உங்களுக்கு அனுமதியில்லை.';
+$l['existing_post_warnings'] = 'இந்த இடுகைக்கு ஏற்கனவே உள்ள எச்சரிக்கைகள்';
