@@ -16,20 +16,21 @@
 // Language pack translators website : https://surangam.net/
 // Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Surangam
-// Last edited date : Wed, 23 Aug 2017 10:14:53 +0000
+// Last edited date : Fri, 29 Sep 2017 23:10:43 +0000
 // --------------------------------------------------------------------------------
 
-$l['redirect_width'] = '';
-$l['lastvisit_never'] = '';
-$l['lastvisit_hidden'] = '';
-$l['search_button'] = '';
-$l['toplinks_memberlist'] = '';
-$l['toplinks_search'] = '';
-$l['toplinks_calendar'] = '';
+$l['redirect_width'] = '50%
+';
+$l['lastvisit_never'] = 'எப்போதுமில்லை';
+$l['lastvisit_hidden'] = '(மறைக்கப்பட்டுள்ளது)';
+$l['search_button'] = 'தேடு';
+$l['toplinks_memberlist'] = 'உறுப்பினர் பட்டியல்';
+$l['toplinks_search'] = 'தேடல்';
+$l['toplinks_calendar'] = 'நாள்காட்டி';
 $l['toplinks_help'] = 'உதவி';
 $l['toplinks_portal'] = 'வாசல்';
 $l['bottomlinks_contactus'] = 'எம்மை தொடர்புகொள்க';
-$l['bottomlinks_returntop'] = '';
+$l['bottomlinks_returntop'] = 'மேல்பக்கத்திற்கு செல்';
 $l['bottomlinks_syndication'] = '';
 $l['bottomlinks_litemode'] = '';
 $l['bottomlinks_markread'] = '';
@@ -494,22 +495,22 @@ $l['error_emailflooding_1_minute'] = '';
 $l['error_emailflooding_minutes'] = '';
 $l['error_invalidfromemail'] = '';
 $l['error_noname'] = '';
-$l['your_email'] = '';
-$l['email_note'] = '';
-$l['your_name'] = '';
-$l['name_note'] = '';
-$l['january'] = '';
-$l['february'] = '';
-$l['march'] = '';
-$l['april'] = '';
-$l['may'] = '';
-$l['june'] = '';
-$l['july'] = '';
-$l['august'] = '';
-$l['september'] = '';
-$l['october'] = '';
-$l['november'] = '';
-$l['december'] = '';
+$l['your_email'] = 'உங்களது மின்னஞ்சல்:';
+$l['email_note'] = 'உங்களது மின்னஞ்சலை இங்கு கொடுக்கவும்.';
+$l['your_name'] = 'உங்கள் பெயர்:';
+$l['name_note'] = 'உங்களது பெயரை இங்கு கொடுக்கவும்.';
+$l['january'] = 'ஜனவரி';
+$l['february'] = 'பெப்ரவரி';
+$l['march'] = 'மார்ச்';
+$l['april'] = 'ஏப்ரல்';
+$l['may'] = 'மே';
+$l['june'] = 'ஜூன்';
+$l['july'] = 'ஜூலை';
+$l['august'] = 'ஆகஸ்ட்';
+$l['september'] = 'செப்டம்பர்';
+$l['october'] = 'அக்டோபர்';
+$l['november'] = 'நவம்பர்';
+$l['december'] = 'டிசம்பர்';
 $l['moderation_forum_attachments'] = '';
 $l['moderation_forum_posts'] = '';
 $l['moderation_user_posts'] = '';
@@ -533,7 +534,7 @@ $l['select2_searching'] = '';
 $l['stopforumspam_error_decoding'] = '';
 $l['stopforumspam_error_retrieving'] = '';
 $l['sfs_error_username'] = '';
-$l['sfs_error_ip'] = '';
-$l['sfs_error_email'] = '';
-$l['sfs_error_or'] = '';
+$l['sfs_error_ip'] = 'வலைமுகவரி';
+$l['sfs_error_email'] = 'மின்னஞ்சல்';
+$l['sfs_error_or'] = 'அல்லது';
 $l['boardclosed_reason'] = '';
