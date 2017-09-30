@@ -16,7 +16,7 @@
 // Language pack translators website : https://surangam.net/
 // Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Surangam
-// Last edited date : Thu, 10 Aug 2017 04:56:43 +0000
+// Last edited date : Sat, 30 Sep 2017 00:50:11 +0000
 // --------------------------------------------------------------------------------
 
 $l['delete_poll'] = 'வாக்கெடுப்பை நீக்கு';
@@ -39,7 +39,7 @@ $l['delayed_moderation'] = 'தாமதிக்கப்பட்ட மட்
 $l['thread_notes'] = 'இழை குறிப்புகளை கண்டிடு/திருத்து';
 $l['open_close_thread'] = 'இழையை திறந்திடு/மூடிடு';
 $l['approve_thread'] = 'இழையை அங்கீகரித்திடு';
-$l['unapprove_thread'] = 'இழையின் அங்கீகாரம்நீக்கு';
+$l['unapprove_thread'] = 'இழையை அங்கீகாரம்நீக்கு';
 $l['soft_delete_thread'] = 'இழையை தற்காலிகமாக நீக்கு';
 $l['restore_thread'] = 'இழையை மீட்டமை';
 $l['delete_thread'] = 'இழையை நிரந்திரமாக நீக்கிடு';
